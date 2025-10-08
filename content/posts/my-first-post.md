@@ -6,6 +6,6 @@ title = 'My First Post'
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+This is **bold** text, and this is *emphasized* text. This Text I added myself, to see if the site updates after a push, while being deployed.
 
 Visit the [Hugo](https://gohugo.io) website!
